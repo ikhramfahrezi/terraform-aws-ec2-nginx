@@ -32,7 +32,7 @@ $env:AWS_DEFAULT_REGION="us-east-1"
 
 🚀 Cara Penggunaan
 1. Clone repository ini:
-git clone 
+git clone https://github.com/ikhramfahrezi/terraform-aws-ec2-nginx.git
 cd terraform-aws-ec2-nginx
 
 2. Inisialisasi Terraform (Mengunduh provider AWS):
