@@ -1,0 +1,13 @@
+# Mengabaikan folder internal Terraform
+.terraform/
+
+# MENCEGAH BOCORNYA STATE FILE DAN KREDENSIAL
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+
+# File sementara OS & Editor
+.DS_Store
+.vscode/
